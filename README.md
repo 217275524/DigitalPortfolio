@@ -10,7 +10,7 @@
 ## 1. Business Communication
 
 ### 📁 Evidence
-- https://github.com/217275524/Portfolio/blob/main/Screenshot%202025-05-23%20152755.png?raw=true
+- https://github.com/217275524/DigitalPortfolio/blob/main/business%20communication.png?raw=true
 
 ### ✍️ Reflection (STAR Technique)
 **S – Situation:** I took an online course to enhance my skills in business communication.  
