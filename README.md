@@ -27,8 +27,10 @@
 
 ### ✍️ Reflection (STAR Technique)
 **S – Situation:** I Completed an online course to improve interview readiness.
+
 **T – Task:** I Learned the art of preparation and responding through interviews.
 **A – Action:** I Finished exercises through the course, rehearsed responding to common interview questions through the STAR method.
+
 **R – Result:** I Increased confidence and ability to deliver answers professionally and in a clear and organized format when interviewed.
 
 ---
