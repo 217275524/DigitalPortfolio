@@ -26,10 +26,10 @@
 - https://github.com/217275524/Portfolio/blob/main/Screenshot%202025-05-23%20152356.png?raw=true
 
 ### ✍️ Reflection (STAR Technique)
-**S:** I Completed an online course to improve interview readiness.
-**T:** I Learned the art of preparation and responding through interviews.  
-**A:** I Finished exercises through the course, rehearsed responding to common interview questions through the STAR method. 
-**R:** I Increased confidence and ability to deliver answers professionally and in a clear and organized format when interviewed.
+**S – Situation:** I Completed an online course to improve interview readiness.
+**T – Task:** I Learned the art of preparation and responding through interviews.  
+**A – Action:** I Finished exercises through the course, rehearsed responding to common interview questions through the STAR method. 
+**R – Result:** I Increased confidence and ability to deliver answers professionally and in a clear and organized format when interviewed.
 
 ---
 
@@ -39,10 +39,10 @@
 - https://raw.githubusercontent.com/217275524/Portfolio/e8829e1afae05cd80db8fe289a1508010d5b743d/Screenshot%202025-05-23%20152319.png
 
 ### ✍️ Reflection (STAR Technique)
-**S:** I needed practice in interview skills with the goal of performing actual job interviews.  
-**T:** I Develop a realistic interview scenario and exhibit professional communication.
-**A:** I Prepared ahead of time, taped myself responding, and reviewed the video to identify strengths and weaknesses.
-**R:** I improved my confidence, response, and ability of writing answers using the STAR method.
+**S – Situation:** I needed practice in interview skills with the goal of performing actual job interviews.  
+**T – Task:** I Develop a realistic interview scenario and exhibit professional communication.
+**A – Action:** I Prepared ahead of time, taped myself responding, and reviewed the video to identify strengths and weaknesses.
+**R – Result:** I improved my confidence, response, and ability of writing answers using the STAR method.
 
 ---
 
@@ -52,10 +52,10 @@
 - https://github.com/217275524/Portfolio/blob/main/N.Ndlovu.cv%20%20(1).pdf
 
 ### ✍️ Reflection (STAR Technique)
-**S:** Did an online course to acquire professional networking skills. 
-**T:**  Acquire online techniques for professional networking and online network building  
-**A:**  I completed practice exercises on LinkedIn, engaging with peers via discussion forums, and learning networking scenarios.   
-**R:** I now have a clean, concise CV ready to use for job applications and internships
+**S – Situation:** Did an online course to acquire professional networking skills. 
+**T – Task:**  Acquire online techniques for professional networking and online network building  
+**A – Action:**  I completed practice exercises on LinkedIn, engaging with peers via discussion forums, and learning networking scenarios.   
+**R – Result:** I now have a clean, concise CV ready to use for job applications and internships
 
 ---
 
@@ -65,10 +65,10 @@
 https://github.com/217275524/Portfolio/blob/main/Screenshot%202025-05-23%20155805.png
 
 ### ✍️ Reflection (STAR Technique)
-**S:**  I completed an online workplace etiquette course. 
-**T:** I got familiar with professional behavior norms and expectations in the workplace. 
-**A:** I completed course material, exercised in communication, dress code, and professional behavior 
-**R:** I improved knowledge of workplace politeness and skills of professional behavior in virtual and physical workplaces
+**S – Situation:**  I completed an online workplace etiquette course. 
+**T – Task:** I got familiar with professional behavior norms and expectations in the workplace. 
+**A – Action:** I completed course material, exercised in communication, dress code, and professional behavior 
+**R – Result:** I improved knowledge of workplace politeness and skills of professional behavior in virtual and physical workplaces
 
 ---
 
