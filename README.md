@@ -10,7 +10,7 @@
 ## 1. 💼 Business Communication
 
 ### 📁 Evidence
-- https://github.com/217275524/Portfolio/blob/main/Screenshot%202025-05-23%20152755.png?raw=true
+https://github.com/217275524/DigitalPortfolio/blob/main/business%20communication.png?raw=true
 
 ### ✍️ Reflection (STAR Technique)
 **S – Situation:** I took an online course to enhance my skills in business communication.
@@ -26,7 +26,7 @@
 ## 2. 🛠️ interview Skills
 
 ### 📁 Evidence
-- https://github.com/217275524/Portfolio/blob/main/Screenshot%202025-05-23%20152356.png?raw=true
+- https://github.com/217275524/DigitalPortfolio/blob/main/interview%20skills.png?raw=true
 
 ### ✍️ Reflection (STAR Technique)
 **S – Situation:** I Completed an online course to improve interview readiness.
@@ -58,7 +58,7 @@
 ## 4. Professional Networking
 
 ### 📁 Evidence
-- https://github.com/217275524/Portfolio/blob/main/N.Ndlovu.cv%20%20(1).pdf
+- https://github.com/217275524/DigitalPortfolio/blob/main/Professional%20Networking.png?raw=true
 
 ### ✍️ Reflection (STAR Technique)
 
@@ -75,7 +75,7 @@
 ## 5. 📬 Workplace Etiquette
 
 ### 📁 Evidence
-https://github.com/217275524/Portfolio/blob/main/Screenshot%202025-05-23%20155805.png
+https://github.com/217275524/DigitalPortfolio/blob/main/Workplace-Etiquette.png?raw=true
 
 ### ✍️ Reflection (STAR Technique)
 
