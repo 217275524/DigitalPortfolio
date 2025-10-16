@@ -65,7 +65,7 @@
 https://github.com/217275524/Portfolio/blob/main/Screenshot%202025-05-23%20155805.png
 
 ### ✍️ Reflection (STAR Technique)
-**S:**  I completed an online workplace etiquette course 
+**S:**  I completed an online workplace etiquette course. 
 **T:** I got familiar with professional behavior norms and expectations in the workplace. 
 **A:** I completed course material, exercised in communication, dress code, and professional behavior 
 **R:** I improved knowledge of workplace politeness and skills of professional behavior in virtual and physical workplaces
