@@ -42,7 +42,7 @@ https://github.com/217275524/DigitalPortfolio/blob/main/business%20communication
 ## 3. Mork Interview
 
 ### 📁 Evidence
-- https://raw.githubusercontent.com/217275524/Portfolio/e8829e1afae05cd80db8fe289a1508010d5b743d/Screenshot%202025-05-23%20152319.png
+https://github.com/217275524/DigitalPortfolio/blob/main/nokuthula%20ndlovu.mp4
 
 ### ✍️ Reflection (STAR Technique)
 **S – Situation:** I needed practice in interview skills with the goal of performing actual job interviews.
